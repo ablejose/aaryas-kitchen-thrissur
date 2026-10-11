@@ -1,0 +1,47 @@
+{
+  "slug": "aaryas-kitchen-thrissur",
+  "name": "Aaryas Kitchen",
+  "shortName": "Aaryas",
+  "descriptor": "Catering Services",
+  "address": "Neruvissery, Thrissur, Keralam 680562",
+  "area": "Neruvissery",
+  "city": "Thrissur",
+  "district": "Thrissur",
+  "region": "Kerala",
+  "postalCode": "680562",
+  "geo": {
+    "lat": 10.4312288,
+    "lng": 76.2292915
+  },
+  "mapsLink": "https://maps.google.com/?cid=13134008375296256549",
+  "phone": "+91 98463 68686",
+  "whatsapp": "919846368686",
+  "hours": "Open 9 am – 7 pm · all days",
+  "opens": "09:00",
+  "closes": "19:00",
+  "rating": 4.5,
+  "reviewCount": 52,
+  "reviews": [
+    {
+      "name": "Gopinath Raman",
+      "rating": 5,
+      "quote": "Excellent food and amazing service, everything was well prepared ,tasty and served on time. The team was friendly and professional. Highly recommended🔥👌"
+    },
+    {
+      "name": "Majo Jose",
+      "rating": 5,
+      "quote": "The Best in the business... High quality service & Food"
+    },
+    {
+      "name": "Sarath Meluveetil",
+      "rating": 5,
+      "quote": "Customer friendly Good food Value added services"
+    }
+  ],
+  "gallery": [
+    "gallery/01.webp",
+    "gallery/02.webp",
+    "gallery/03.webp"
+  ],
+  "url": "https://aaryas-kitchen-thrissur.vercel.app"
+}
